@@ -8,4 +8,4 @@ MRE134_Stiffness4D is a 4D zipped NifTi file that contains the warped shear stif
 
 MRE134_Damping4D is a 4D zipped NifTi file that contains the warped damping ratio of each participant in MNI space (91 x 109 x 91 x 134)
 
-Demographic data from each participant is also provided as an excel file.
+Demographic data from each participant is also provided as an excel file (MRE134_Demographics)
