@@ -7,3 +7,5 @@ MRE_134_Xi_3D is a zipped NifTi file that corresponds to the average damping rat
 MRE_134_Mu_4D is a 4D zipped NifTi file that contains the warped shear stiffness (kPa) of each participant in MNI space (91 x 109 x 91 x 134)
 
 MRE_134_Xi_4D is a 4D zipped NifTi file that contains the warped damping ratio of each participant in MNI space (91 x 109 x 91 x 134)
+
+Demographic data from each participant is also provided as an excel file.
