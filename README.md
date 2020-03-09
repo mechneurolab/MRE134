@@ -12,4 +12,4 @@ Demographic data from each participant is also provided as an excel file (MRE134
 
 
 
-Hiscox LV, Sharma S, Schwarb H, McGarry M, Johnson CL. Mechanical Properties of the Human Brain: Development of an MR Elastography Template. Organization of Human Brain Mapping (OHMB) (June 2019, Rome, Italy).
+Hiscox LV, Sharma S, Schwarb H, McGarry MDJ, Johnson CL. Mechanical Properties of the Human Brain: Development of an MR Elastography Template. Organization of Human Brain Mapping (OHMB) (June 2019, Rome, Italy).
