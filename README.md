@@ -8,7 +8,7 @@ Maps are reported as the shear stiffness, μ, (kPa) and damping ratio, ξ, defin
 
 ξ=G"/2G'
 
-with G' representing the storage, G" the loss modulus, and |G*| the magnitude of the complex shear modulus.
+with G' representing the storage, G" the loss, and |G*| the magnitude of the complex shear modulus.
 
 MRE134_Stiffness3D is a zipped NifTi file that corresponds to the average shear stiffness (kPa) from 134 young adult participants in MNI space (91 x 109 x 91)
 
