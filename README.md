@@ -5,6 +5,7 @@ Brain magnetic resonance elastography (MRE) data were collected using the Resoun
 Maps are reported as the shear stiffness, μ, (kPa) and damping ratio, ξ, defined as:
 
 μ =2|G*|2/(G'+|G*|)
+
 ξ=G"/2G'
 
 MRE134_Stiffness3D is a zipped NifTi file that corresponds to the average shear stiffness (kPa) from 134 young adult participants in MNI space (91 x 109 x 91)
