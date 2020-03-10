@@ -10,7 +10,7 @@ Maps are reported as the shear stiffness, μ, (kPa) and damping ratio, ξ, defin
 
 with G' representing the storage, G" the loss, and |G*| the magnitude of the complex shear modulus.
 
-Individual shear stiffness and damping ratio images were coregistered to the MNI 2mm template.
+Individual shear stiffness and damping ratio images were coregistered to the MNI 2mm template using Advanced Normalization Tools (ANTS).
 
 MRE134_Stiffness3D is a zipped NifTi file that corresponds to the average shear stiffness from 134 young adult participants in MNI space (91 x 109 x 91). Spatial resolution is 2mm x 2mm x 2mm.
 
