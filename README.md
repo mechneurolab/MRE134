@@ -18,7 +18,5 @@ MRE134_Damping3D is a zipped NifTi file that corresponds to the average damping 
 
 Demographic data from each participant is also provided as an excel file (MRE134_Demographics)
 
-
-
 For further details see:
-Hiscox LV, McGarry MDJ, Schwarb H,et al. Standard-space atlas of the viscoelastic properties of thehuman brain. Hum Brain Mapp. 2020;1–19. https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25192
+Hiscox LV, McGarry MDJ, Schwarb H,et al. Standard-space atlas of the viscoelastic properties of the human brain. Hum Brain Mapp. 2020;1–19. https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25192
