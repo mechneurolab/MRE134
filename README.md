@@ -21,4 +21,4 @@ Demographic data from each participant is also provided as an excel file (MRE134
 
 
 For further details see:
-Hiscox LV, Sharma S, Schwarb H, McGarry MDJ, Johnson CL. Mechanical Properties of the Human Brain: Development of an MR Elastography Template. Organization of Human Brain Mapping (OHMB) (June 2019, Rome, Italy).
+Hiscox LV, McGarry MDJ, Schwarb H,et al. Standard-space atlas of the viscoelastic properties of thehuman brain. Hum Brain Mapp. 2020;1–19.https://doi.org/10.1002/hbm.25192
