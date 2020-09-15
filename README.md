@@ -21,4 +21,4 @@ Demographic data from each participant is also provided as an excel file (MRE134
 
 
 For further details see:
-Hiscox LV, McGarry MDJ, Schwarb H,et al. Standard-space atlas of the viscoelastic properties of thehuman brain. Hum Brain Mapp. 2020;1–19.https://doi.org/10.1002/hbm.25192
+Hiscox LV, McGarry MDJ, Schwarb H,et al. Standard-space atlas of the viscoelastic properties of thehuman brain. Hum Brain Mapp. 2020;1–19. https://onlinelibrary.wiley.com/doi/full/10.1002/hbm.25192
